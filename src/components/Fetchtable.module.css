@@ -1,0 +1,14 @@
+input {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 15px;
+  padding: 5px 10px;
+  border: 2px solid crimson;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.inner_div Link {
+  padding: 23px 23px;
+}
